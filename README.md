@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A PvP online arena game](https://store.steampowered.com/app/3012280/Paw_Brawl_Party/?l=english)
 
-
+/////////////////////////////////////////////////
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/JorgeCasedas)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jorge.casedas@gmail.com**
 
-
+/////////////////////////////////////////////////
 
 - 🌱 I’m currently learning **How to improve the gamefeel and AI behaviours**
 
