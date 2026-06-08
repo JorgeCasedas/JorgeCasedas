@@ -13,7 +13,7 @@
 
 /////////////////////////////////////////////////
 
-- 🌱 I’m currently learning **How to improve the gamefeel and AI behaviours**
+- 🌱 I’m currently learning **How to improve gamefeel and AI behaviours**
 
 - ⚡ Fun fact **I once developed an online card game using Firebase**
 
